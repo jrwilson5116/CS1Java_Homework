@@ -3,14 +3,13 @@
 
 I loved this class! I learned a ton and grew immensely as a programmer. 
 
-Below are screenshots from the more recent projects...
 
-! [ToDoList ss] (CS1Java_Homework/ToDoList.png)
+![](https://github.com/jrwilson5116/CS1Java_Homework/blob/master/ToDoList.png)
 
-! [TicTacToe ss] (CS1Java_Homework/TicTacToe.png)
+![](https://github.com/jrwilson5116/CS1Java_Homework/blob/master/TicTacToe.png)
 
-! [CryptidGame ss] (CS1Java_Homework/CryptidGame.png)
+![](https://github.com/jrwilson5116/CS1Java_Homework/blob/master/CryptidGame.png)
 
-! [FutureValue ss] (CS1Java_Homework/FutureValue.png)
+![](https://github.com/jrwilson5116/CS1Java_Homework/blob/master/FutureValue.png)
 
-! [SalesCommission ss] (CS1Java_Homework/SalesCommission.png)
+![](https://github.com/jrwilson5116/CS1Java_Homework/blob/master/SalesCommission.png)
