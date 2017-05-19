@@ -2,14 +2,15 @@
 ### Homework from my Computer Science 1 class
 
 I loved this class! I learned a ton and grew immensely as a programmer. 
+
 Below are screenshots from the more recent projects...
 
-![ToDoList ss] (/ToDoList.png)
+![ToDoList ss] (CS1Java_Homework/ToDoList.png)
 
-![TicTacToe ss] (/TicTacToe.png)
+![TicTacToe ss] (CS1Java_Homework/TicTacToe.png)
 
-![CryptidGame ss] (/CryptidGame.png)
+![CryptidGame ss] (CS1Java_Homework/CryptidGame.png)
 
-![FutureValue ss] (/FutureValue.png)
+![FutureValue ss] (CS1Java_Homework/FutureValue.png)
 
-![SalesCommission ss] (/SalesCommission.png)
+![SalesCommission ss] (CS1Java_Homework/SalesCommission.png)
